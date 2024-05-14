@@ -1,3 +1,4 @@
+### Questions 1-3 & Q4 explanations in Assignment.pdf
 ## Question 4
 To run the program, 
 `python3 trie.py <DNA file> <query file> -o <output file>`
